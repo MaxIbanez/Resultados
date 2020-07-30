@@ -1,0 +1,26 @@
+[2H]
+C
+N
+S
+C=O
+[OH-]
+B
+F
+S
+S
+F
+B
+C\C
+[2H]
+B
+N
+N
+I
+[C@H]
+C(=O)
+Br
+C=O
+C=O
+[C@@] ls[2H] 5(N)(N)[OH-][C@@][C@@](F)c1C\C[nH](C)(Cl)                                              
+CC osBr 8(N)Cl(OC)C(\C)[n+](F)Cl(F)(Cl)[nH][nH]                                              
+Cl osC#N HC#N[2H]28[n+][C@]Cl[n+](Cl)[nH][2H]                                              

@@ -1,0 +1,203 @@
+3(CC)(OC)(OC)(CC)[C@H](OC)(OC)[C@H](CC)C(\C)(c1)(OC)(OC)9[C@H]C(\C)NCOO[C@H][C@H]ONC(OC)C(\C)(OC))(OC)(CC)(OC)[C@H]C(\C)(OC)[C@H](CC)C(\C))(CC)(CC)(OC)(OC)O[C@H](OC)C(\C)OO(OC)(OC)[C@H](OC)C(\C)(OC)O[C@H](OC)(c1)O(OC)(c1)(c1)(OC)(c1)
+)(OC)(OC)(CC)(CC)[C@H]C(\C)(CC)(c1)(OC)C(\C)NC(OC)(OC)9[C@H]NC[OH-](OC)9[C@H](c1)(CC)[OH-]O[OH-](c1)9(c1)(CC)C(\C)[OH-]C(\C)[C@H][C@@](CC)C(\C)(CC)(CC))[C@H][C@H](OC)(OC)C(\C)C(\C)[C@H])(OC)(OC)NC(CC)[C@H]C(\C)(OC)(c1)(CC)(c1)[C@H](CC)NC[C@](CC)NC
+C=O(Br)C(=O)[C@]noNO[2H](O)(Br)C(\C)NC[C@@]no(O)(O)C(\C)[2H][C@](F)(C(\C)CCCCNC)(Br)[2H]OC[H+]C#NOC[2H]NO[n+]Cl)[C@H]Br[n+]3[C@](Br)NO[C@@][H+]noc1no[n+][n+]C\C[C@@]5C\CBr(Br)C(\C)OCl[C@H]C#NC#N[C@]2
+[2H]CCOC[n+](Br)[n+]BrCCCCOC#NnoC(=O)CC[n+]C#NBrCCC\CCC#BrC\C(Br)[n+]NCC\CBrOC[H+][n+]C\C(N)CCC(=O)C=O/NOC\C(Br)(c1)C#N[H+]no(O)C\COC(F)[n+](Br)CCC\Cno(OC)BrBrC\C[C@@]C#Br[2H][OH-]OC(Br)no9
+(Cl)ClClC\C[2H]BrcccCl(N)9C\C(F)[2H]Clc1[2H](C)[2H]ccc][H+]\C=C\ClC\C(Br)C=O\C=C\\C=C\cccc1ccc(Cl)(N)(N)(Cl)9CCcccClCC(F)\C=C\Brc1\C=C\Cl(C)(N)(N)C=O(=O)N(F)C#Nccc(C)\C=C\[2H]CC(Cl)C(=O)Cl[2H]Br(OC)
+C@@Hccc(C)(N)\C=C\(=O)N(Cl)(C)ccc3(N)C=O\C=C\ccc(=O)N(N)nc\C=C\(Cl)cC=O(Cl)(C)Cl[2H](C)(Cl)(Cl)(Cl)\C=C\ncC@@HccccccC@@HC#Nc1(Cl)(C)(N)C=O(Cl)(=O)N\C=C\(Cl)(C)nc(C)ccc[nH][nH](=O)NBr(Cl)nc(Cl)(N)c1C@@HBr(C)\C=C\\C=C\(O)
+C@@Hccc(C)Cl\C=C\(=O)N[nH]cccccc2c1(=O)N\C=C\ccc(=O)NClncccc(Cl)N(=O)N(Cl)(C)(=O)NCl[nH](Cl)(Cl)(Cl)cccncC@@H(C)cccC@@H[2H](N)(Cl)(C)C=O\C=C\(Cl)cccccc(Cl)(C)nc(C)ccc[nH][nH]\C=C\(N)(Cl)nc(Cl)(=O)NClC@@H(N)[nH]ccc\C=C\(F)
+C@@H(C)[nH](=O)Ncccccc(Cl)(C)(C)@[H+]\C=C\ccc(C)ccc(=O)Nnc[nH]nc(cccnc[nH]ccc\C=C\(Cl)ncncnc(C)ncC@@H(Cl)[nH]C@@H[2H](=O)Nnc[nH]\C=C\(C)nc(C)[nH]nc(Cl)C@@H[nH][nH](Cl)(Cl)(C)(=O)NncC@@Hncccc\C=C\C@@H(=O)N(Cl)[nH](C)Cl
+cnc[nH](Cl)ccc[nH](C)nc[nH][nH]HC#N(C)[nH](Cl)(C)(C)C@@H(Cl)C@@H)[nH]C@@Hnc[nH](C)ncC@@HC@@HC@@H(Cl)C@@Hcncnc(Cl)cnc\C=C\(C)C@@Hnc[nH](Cl)C@@H(Cl)ncC@@HncC@@HncncC@@Hnc(Cl)(C)C@@HcncC@@H[nH](C)cnc(C)nc(Cl)(Cl)ccc
+cnc(Cl)nc(C)(Cl)[nH]nc[nH](Cl)I)[nH](Cl)nc(Cl)[nH]cncnccncnoncC@@HC@@H(Cl)(Cl)C@@HcnccnccncnccnccncC@@HC@@Hcnc[nH][nH]cncC@@HncnccncC@@HC@@HC@@HC@@HcncC@@HC@@HC@@HC@@Hnc(Cl)cnccnccncnc(Cl)cnc(Cl)C@@Hncnc[nH]
+cnc(Cl)(Cl)(C)(Cl)[nH](Cl)ccc(Cl)68[nH](Cl)nc(Cl)(Cl)cncC@@HcncC\CnccncC@@HncncC@@HcnccnccncC@@HcnccncC@@HC@@Hcnc(Cl)(Cl)cncC@@HncnccncC@@HC@@HcncC@@HcncC@@HC@@HcncC@@HC@@Hnccnccnccncncnccnc(Cl)C@@HC@@HC@@H(Cl)
+cnc(Cl)(Cl)ccc(Cl)(C)(Cl)(N)(Cl)OH(Cl)ncnc(Cl)(Cl)cncC@@Hcnc(N)C@@HcncC@@HncnccnccnccnccncC@@HcnccnccncC@@HcncncnccncC@@HC@@HC@@HcncC@@HC@@HcnccnccncC@@HC@@HcnccncC@@HC@@HcnccnccncC@@Hnc nccncC@@HC@@Hnc
+ [nH][nH]ccc[nH]cccccc[n+]nc[C@]S(Cl)ncC@@H(Cl)nccnccnccnc\C=C\C@@HcnccncC@@HC@@HcnccnccnccncC@@Hcnc cnccnc C@@HnccnccncC@@HC@@HcnccnccnccnccnccnccnccnccnccnccncC@@Hcnc cncC@@HC@@H C@@HcnccnccncC@@H
+ cccC=O(=O)N(C)C=O(F)3(Cl)[OH-]](Cl)ncC@@H(Cl)nccnccnccnc(C)cnccnccncC@@HC@@Hcnccnccnccnccnccnc cnccnc C@@HC@@Hcnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc cnccncC@@H C@@HcnccnccncC@@H
+ [2H]C(=O)c1C=OOCC(\C)=[nH][C@H]c[nH]ncnc[nH]nccnccnccnc[nH]cnccnccnccnccnccnccnccnccnccnc  cnccnc C@@HC@@Hcnccnccnccnccnccnccnccnccnc cnccnccnccnccnccnccnc cnccnccnc C@@HcnccnccncC@@H
+ C#Br3[n+][2H](OC)6Fccc)lccc(Cl)nc\C=C\C@@Hcnccnccnc(Cl)cnccnccnccnccnccnccnc cnccnc  cnccnc cncC@@H cnccnccnc cnccnccnccnc cnccnccnccnccnccnc  cnccnccnc cnccnccnccnccnc
+ 2=3[C@H]7I[c13oC=O(Cl)nc[2H]C@@Hcnccnc nccnccnccnccnccnccnc   cnc  cnccnc cnccnc cnccnccnc cnccnccnccnc cnccnc cnccnccnc   cnccnc cnccnccnccnccnc
+ BF=7#Nc[C@]3o[2H](C)(Cl)[n+]C@@Hcnccnc nccnc cnccnccnccnc   cnc   cnc cnccnc cnccnccnc  cnc cnc cnccnc  cnccnc   cnccnc cnccnccnccnccnc
+ N[F#[]l+)o[C@H](=O)N[nH]9C@@H cnc C@@Hcnc cnccnccnc    cnc   cnc cnccnc cnccnccnc      cnccnc   cnc   cnccnc cnc cnccnccnc
+ \\[[\coC3o7[H+]C=O8C@@H cnc C@@Hcnc  cnccnc    cnc   cnc cnccnc  cnccnc           cnc   cnccnc cnc cnccnccnc
+ clccllnN6oH[C@H][n+]BC@@H cnc C@@Hcnc  cnccnc    cnc     cnccnc                    cnc cnc cnc cnc
+ ollloon[7oS7/#C@@H cnc C@@Hcnc  cnccnc          cnccnc                    cnc cnc   cnc
+ nooonop\2l]H@Fnc cnc cnc   cnc            cnc                      cnc    
+ nnnnpnpcOccSF#nc cnc cnc                cnc                           
+ pnpppnpl[C@]Sl][B(Cl) cnc cnc                cnc                           
+ pnpppnsl(c1)Co\\7(C)   cnc                                            
+ sppssnsl4-occ9C=O   cnc                                            
+ spssspso([C@]ncl[C@](Br)   cnc                                            
+ spssspso8CCnloCC9   cnc                                            
+ spssspsl4C\CnloBr(   cnc                                            
+  sss psl9Brnlo(N)Icnc  cnc                                            
+  s   pscC(\C)BrnlnCl#cnc  cnc                                            
+  s   ns\O[H+]ncnC=OFcnc  cnc                                            
+  s   n ]+C(=O)ncn(=O)N#cnc  cnc                                            
+  s   n N8(c1)n]n(=O)NBcnc                                               
+  s   n C@2n[n(=O)N7C@@H                                               
+  s   n +ICnFoC=O9(C)                                               
+  s   o [C@H]HFnCo(N)NO(O)                                               
+  s   l [n+]#[o2l(F)[2H]5                                               
+  s   c [2H]F\oC(\C)cC(=O)c1H                                               
+  s   ] (F)@ll(O)\(c1)C=OScnc                                              
+  s   F c13lcC\CN1\C=C\[cnc                                              
+  p   8 [2H][C@]o[c1@8ccc[cnc                                              
+  p   O (N)(O)oH(N)-B(C)Scnc                                              
+ 
+cnc
+cnc
+(Cl)
+C(=O)
+7
+#
+[
+\
+\
+\
+\
+]
+N
+B
+4
+C(\C)
+C(=O)
+(F)
+(N)
+(=O)N
+\C=C\
+ccc
+(C)
+[nH]
+[nH]
+(Cl)
+(Cl)
+(Cl)
+(Cl)
+(Cl)
+(Cl)
+(Cl)
+nc
+nc
+nc
+(Cl)
+(Cl)
+(Cl)
+[nH]
+\C=C\
+[2H]
+(O)
+)
+8
+H
+F
+N
+N
+#
+@
+1
+[C@]
+CC
+Br
+(N)
+C=O
+\C=C\
+ccc
+(C)
+(C)
+(C)
+[nH]
+[nH]
+[nH]
+[nH]
+[nH]
+(C)
+ccc
+(=O)N
+(N)
+C\C
+C#Br
+9
+7
+B
+H
+#
+I o(F)
+8[o(=O)N
+/C#Noccc
+[C@@][2H]l[nH]
+[H+](=O)N][nH]
+(N)cccN(Cl)
+(=O)N[nH]((Cl)
+ccc(Cl)O(Cl)
+(C)(Cl)[n+]nc
+[nH]nc[2H]nc
+(Cl)C@@HC\CC@@Hss77ICC(N)(O)[C@]2/CC[C@@Hcnc(C)                                            
+(Cl)C@@H[H+](C)CC(CC))B7CCc19OCNOS(OC)FcccC@@H8cncC\C                                          
+ncC@@H[2H]\C=C\(N)C\CC(\C)#5C\Cc16[2H]NO]9B(C)cncB C(\C)                                          
+nc(Cl)[C@@]CC(N)c12[4[H+](O)B(O)1S7([2H]cncNO c1                                          
+nc(=O)N9+\C=C\(=O)N(S-CC(c1)N[2H]5[(OC\CcncClcnc[nH]                                          
+ncBr6I(C)ccc(NOno3]OC+S5CC[2H]cnc(C)cncnc                                          
+(Cl)OC@S(C)(C)1HC#BrCC3][H+](CC)FNCClc1cnc(Cl)cncC@@H                                          
+(Cl)[C@]I](C)(C)(c1)IC(=O)OC2][H+]NOC(Br)ccc(N)cncnccnccnc                                          
+(Cl)6Nl(C)(C)[C@@]FCCC#NBc[n+]C#Br(OC[nH]c1cncC@@Hcnccnc                                          
+(Cl)I[occcccc(c1)[[2H][C@H]FcC#NNO7(F)(Cl)c1cncC@@Hcnccnc                                          
+(Cl)S]nC=OC=ONC[C\C3Nc[C@]C#Br-(N)ncc1cnccnccnccnc                                          
+ccc]No[OH-]no(O)#[2H](CC)#NNCC#Br(Br)\C=C\nc[2H]cnccnccnc                                           
+Clc[lC/CC8C\C[n+](2C(\C)NO(N)(C)nc(N)cnccnc                                            
+CCo]o]B[H+]O(F)[H+]8no)NO\C=C\(C)nc(N)cnccnccnc                                           
+(O)o[nlNC\C(OC)BrC\C(OC-C#Brccc[nH]C@@H(=O)Ncnccnc                                            
+C#NnSnn\C\C(CC)BrC\C@(F)+[C@@]ccc[nH]C@@H\C=C\cnccnc                                            
+(c1)pFppo[H+])[H+]C\CHCl7(CC)(C)[nH]C@@HC=Ocnccnc                                            
+OpHppo[H+](OC)[H+]C\CIC=O6(c1)[nH][nH]C@@H(=O)Ncnccnc                                            
+-pBssn[H+][C@H]C\C[H+]H(=O)N6[OH-][nH][nH]cnc(=O)Ncnccnc                                            
++s(sspOC(CC)OC[2H]H\C=C\6(c1)(Cl)(C)cnc(=O)Ncnccnc                                            
++s5sspC(=O)9CCOCH\C=C\2NC(Cl)(C)cnc\C=C\ cnc                                            
+-s(sspC(\C)+(Br)noC(=O)NNC[C@](Cl)ccccncccc cnc                                            
+[n+]p@snn1BC(=O)O@[2H]CCC#Br(C)ccccnc(Cl)                                              
+2sCssp73[n+][C@@]5(=O)NCCC#NncC=Ocncccc                                              
+5s(ssp([C@H]C#BrNO/(=O)NOCnoncBrcncccc  cnc                                           
+4s6ssp=[OH-]NOC#Br(OC)Cl[H+](O)ncC(=O)cnc(C)  cnc                                           
+6 2 ss@C#N(c1)[n+][OH-]Cl[2H]C(=O)nc[C@H]cncccc  (C)                                           
+4 3 ssB[n+](OC)C(=O)C#N[2H][2H](O)nc+cnc(C)  (=O)N                                           
+3 - pp#no9(O)C(=O)[H+][H+]C#N(Cl)=cnc(C)  nc                                           
+O - ppHC(=O))CC[2H](O)[H+][n+](Cl)@cnc(C)  C@@H                                           
+[C@@]s/ npI(O)(CC)OCC\CNCCCC#N[nH]@cnc[nH]  cnc                                           
+C(=O)s4 lo=C#N[C@@]OC(F)/C(=O)[n+]ccc7cncnc  cnc                                           
+Cln=sBH+OC(=O)OCCC@C#N[n+]c1(c1)cncC@@H                                              
+(Cl)[#sNO[C@@]9ICC(Br)O[Ono-nonc(Cl) cnc cnc                                          
+(Cl)l[s(F)[2H]9HC\C[C@@]3c)(O)7noC@@H[nH] cnc cnc                                          
+(Cl)o] (N)Br)#Br(c1)/c)(O)8(Br)C@@H[nH] cnc cnc                                          
+[nH]n] [2H](F))Ic1[C@]/\/C#Br6(F)C@@H[nH] cnc                                            
+(C)pS C\C[2H](CC)@[2H]C(=O)/[2[C@@]-(N)cnc(Cl)                                              
+C#Br I @F3[C@@]OCC\CCC2+[C@H]c1(O)cnc[nH]  cnc                                           
+8 (OC) ln[C@H]C\C(OC)C=O(O)OC69ccc(Br)cncC=O  cnc                                           
+I C#N lpC#BrOC9(=O)N[C@]c1(5ccc[H+]cncC\Ccnc cnc                                           
+# OC opC#BrC(=O)+\C=C\(c1)C=O8@\C=C\(F)cnc[C@]cnc cnc                                           
+F C\C op(O)(Br)/ccc[C@]\C=C\1=(C)[2H] [C@@]cnc                                             
+S c1 op(Br)(O)+(C)[C@H](C)3B(C)(N)cnc)cnc cnc                                           
+N Br opOC[n+]9ccc(c1)(C)[C@H]=[nH]C=Ocnc(c1)cnc                                             
+S C\C nsC\CC#N3(C)(CC)[nH][OH-]([nH](=O)Ncnc[C@@]cnc                                             
+F (O) ns[H+][C@@]O(C)(CC)[nH]no7(Cl)(=O)N (O)cnc                                             
++ ) lo[n+]ONO(=O)N[C@H](=O)NCC1[nH](=O)Ncnc[2H]                                              
+(O) C H[C#N(OCc19C\C[2H]OC=O(C) ccc                                              
+Br N IS[C@]BOC(F)1OCC\CNC(N)[nH]cnc[nH]                                              
+[2H] [ N\[OH-]ICC[H+]4[2H]BrNOCl[nH]cnc[nH]                                              
+[2H] ] ]lNCI(Br)[H+]5(F)[2H](O)\C=C\[nH]cnc(Cl)                                              
+(N) \ ]cNCI[2H][2H]7C\C(N)[H+]ccc[nH] (Cl)                                              
+Br \ coC(\C)@[2H](F)1ClC=OC\C[nH](C) nc                                              
+(N) c \l9I[2H]OC5BrC=O(F)(C)(C) nc                                              
+(N)scsco1COCOC2c1C=OBr(C)ccccncnccnc                                             
+c1 cson4=CCCC1(N)(=O)Nc1(Cl)\C=C\ nccnc                                             
+Br \snn6=C(=O)C(=O)1[2H]C=OBr(Cl)Clcncnccnc                                             
+C#Br ]spp5/(O)C\CO(=O)NC=OBrncC\Ccnc(Cl)C@@H                                             
+(c1) Nspp89C#Br(F)O\C=C\Cl[H+]ncC#Ncnc(Cl)(Cl)                                             
+9 BpssC(OC)C(\C)(F)(CC)ccc(N)(Br)C@@H9cnc[nH]c1                                             
++ 6npsCNC[C@H](F)C(\C)ccc[2H](Br)C@@H2cnc[nH]OC                                             
++ 3lpsI[C@@](OC)[H+][C@@]C=Oc1(Br)C@@H8cnc(Cl)C(=O)                                             
+2sC(\C)\psI[C@@]OCCNCc1OC(O)nc=cnc(Cl)(O)                                             
+5sNOIpsCC#Br)OC[C@@]C\C(O)nonc@cnc(Cl)(F)                                             
+9pNO6npC[OH-]C(\C)noNONC[C@@][n+]nc@C@@HncC=O                                             
+-n(O)[C@@]np@C#BrC(\C)C#Nno-(OC)NOnc=ncC@@Hccc                                             
+)I[H+]c1pp@(Br)O(c1)OC(4(OC)(Cl)6c1C@@H(Cl)                                             
+Inicio: 01:10:46
+Fin: 01:12:47
+0:2:1

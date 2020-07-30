@@ -1,0 +1,18 @@
+S     NO [C@]cs(F)6Hn[nH]Ncnc                                              
+N
+I
+[C@@]
+[2H]
+[2H]
+Br
+[C@]
+F
+N
+I
+[C@]
+OC
+[2H]
+C=O
+[H+]
+NO
+OC(C)N  (N)O1(Br)Brl/NnoS[nH]C@@HC@@Hcnc                                             

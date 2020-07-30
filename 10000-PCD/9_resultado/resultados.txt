@@ -1,0 +1,12 @@
+C=O s  
+[C@H] s  
+F s  
+F
+[H+]
+C=O
+[2H]
+OC
+[C@@]
+B n
+N n
+NCC \c1#\(Br)(c1)c1no(c1)(C)nc[C@H]cnc(C)cnc                                              

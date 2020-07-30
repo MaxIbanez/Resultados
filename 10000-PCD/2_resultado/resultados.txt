@@ -1,0 +1,25 @@
+C=O (Cl)cccnc(C)s(Cl)(Cl)(C)Br(C)(C)(Cl)(Cl)(Cl)(C)(Cl)C@@HCC(N)C@@HC@@H(C)C@@Hnc[nH](Cl)ncnc(Cl)C(\C)C@@H[\C=C\C@@HC@@H(Cl)nc[nH]ccc(Cl)C@@H[nH](C)C@@HcncC@@Hnc[nH]ncnc(Cl)ncC@@H[nH]Clnc(Cl)(=O)N(Cl)ccc[nH][nH]
+C#N
+B
+B
+C
+Cl
+[H+]
+N
+S
+N
+[H+]
+[2H]
+C=O
+[2H]
+C(=O)
+B
+N
+S
+S
+N
+B
+C(\C)
+C(=O)
+[2H]
+Cl

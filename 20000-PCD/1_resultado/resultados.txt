@@ -1,0 +1,7 @@
+NO
+F
+NC
+OC
+C=O
+BrCF
+[C@](C)C(\C)[C@H] (Cl)(C)s(C)[nH]C\C(F)n p\s[cnc  cnc                                          

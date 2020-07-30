@@ -1,0 +1,35 @@
+C#N
+S
+N
+I
+[C@@]
+[2H]
+Br
+I
+F
+F
+C#N
+[2H]
+Cl
+C(=O)
+NC
+B
+I
+C
+[OH-]
+OC
+Br
+[2H]
+Br
+C\C
+OC
+[C@@]
+NC(Cl)
+Br(Cl) 
+C#N pC@@HNSn C@@H[nH](C)NOc12o[n+][C@@]C@@H                                              
+CC pnc\\n ncC=O(N)(c1)(CC)(oC(\C)C#Br(Cl)                                              
+C(=O) pncccn ncBr(F)NO+=lC(\C)OC[nH]                                              
+C(=O) pncl\n ncC(=O)nono@=c(OC)(F)(C)                                              
+NO \ncnNn [nH]HS[2H][(8)ccc[C@@]   nc                                          
+[C@] \(Cl)pNo cccN]Cl]=-3(C))   [2H]                                          
+[OH-] [(Cl)nIo Cl[cC=O\=C(\C)/(C)6   8                                          

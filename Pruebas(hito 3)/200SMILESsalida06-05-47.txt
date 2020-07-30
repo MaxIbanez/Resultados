@@ -1,0 +1,203 @@
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+cnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+ccccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccncccccnccnccnccnccnccnccnccnccnccnccnccnc
+ccccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnccnc
+(Cl)cncccccnccnccnccnccnccnccnccnccnccnccnc  cncccc cnccnccnccnccnc cnccnccnc cnccnccnccnc cnccnc cnccnccnc cnccnccnccnc cnccnccnccnccncccccnccnccnccnccnccnccnccnccnc  cnc
+C=Ocncccccnccnccnccnccnccnccnccnccnccnccnc  cccccc cnccnccnccnccnc cnccnccnc cnccnccnccnc  cnc  cnccnc cnccnccnccnc cnccnc cnccncnccnccnccnccnccnc cnccnc    
+CC ccccnccnccnccnccnccnccnccnc cnc   ccccnc cnc cnc cnc cnc cnc  cnc    cnc  cnccnc cnccnccnccnc  cnc  cncnccnccnccnccnccnc  cnc    
+) nccnccnc cnccnccnccnccnc     ccccnc cnc   cnc      cnc    cnc  cnc  cnccnccnc   cnc   nccnccnc cnccnc  cnc    
+9 nccnccnc cnccnccnccnccnc     ccccnc cnc   cnc      cnc    cnc  cnc  cnccnccnc   cnc   ccccnccnc cnccnc  cnc    
+( nc     cnc       cnccnc                 cnc     cnc         ccc cnc          
+8 [nH]     cnc       cnccnc                       cnc         cnc cnc          
+1 (C) cnc cnccnccnc       ccccnc                 cnc  cnc  cnc cnc       ccc cnc          
+4 C=O cnc   cnc       cnccnc                       cnc         cnc cnc          
+9 (N)cnccnc cnccnccnc       cnccnc                 cnc  cnc  ccc cnc       cnc cnc  cnc       
+9 (F) cnc  cnccnc       cnccnc                 cnc     ccc         cnc cnc          
+- (Br)     cnc       cnccnc                       cnc         cnc            
+9 (Br) cnc   cnc       cnccnc                       cnc         cnc            
+no (O) cnc   cnc       cnccnc                       cnc         cnc cnc          
+) )             cnc                        cnc         cnc            
+(O) NO cnc   cnc       cnccnc                       cnc         cnc            
+NO )             cnc                        cnc         cnc            
+O 9             cnc                        cnc                      
+O O             cnc                        cnc         cnc            
+) -             cnc                        cnc                      
+NO 9             cnc                        cnc                      
+NO 3             cnc                        cnc                      
+no ) cnc           cnc                        cnc         cnc            
+O 9             cnc                        cnc                      
+9 -             cnc                        cnc                      
+) 9             cnc                        cnc                      
+O 9             cnc                        cnc                      
+) 3             cnc                        cnc                      
+NO 9             cnc                        cnc                      
+) 9             cnc                        cnc                      
+O )             cnc                        cnc                      
+3 9             cnc                        cnc                      
+9 9             cnc                        cnc                      
+) 3             cnc                        cnc                      
+) 3             cnc                        cnc                      
+9 9             cnc                        cnc                      
+3 3             cnc                        cnc                      
+9 )             cnc                        cnc                      
+3 )             cnc                        cnc                      
+9 )             cnc                        cnc                      
+9 9             cnc                        cnc                      
+) )             cnc                        cnc                      
+3 9             cnc                        cnc                      
+3 )             cnc                        cnc                      
+3 O             cnc                        cnc                      
+/ 9                                      cnc                      
+3 )             cnc                        cnc                      
+- 9                                      cnc                      
+- 3                                                             
+3 )             cnc                        cnc                      
+/ O             cnc                        cnc                      
+/ )                                      cnc                      
+- )             cnc                        cnc                      
+- 9                                      cnc                      
+3 O             cnc                        cnc                      
+/ 9                                                             
+- NO cnc           cnc                        cnc                      
+/ O                                      cnc                      
+/ NO             cnc                        cnc                      
+/ O                                      cnc                      
+/ O                                      cnc                      
+/ O             cnc                        cnc                      
+/ NO cnc           cnc                        cnc                      
+1 NO                                      cnc                      
+1 NO                                      cnc                      
+/ NO                                      cnc                      
+/ O                                      cnc                      
+2 )                                                             
++ O                                                             
+4 NO                                                             
+1 NO                                      cnc                      
+2 O                                                             
+2 O                                                             
+1 NO                                      cnc                      
+2 NO                                      cnc                      
+1 no cnc                                    cnc                      
+4 no                                                             
+2 NO                                                             
+1 no cnc           cnc                        cnc                      
+1 NO                                      cnc                      
+2 no                                                             
+2 no                                                             
++ no                                                             
+2 no cnc                                    cnc                      
+2 NO                                                             
++ O                                                             
++ NO                                                             
++ no                                                             
++ no                                                             
+4 no                                                             
++ NO                                                             
+2 no                                                             
+1 NO cnc                                    cnc                      
++ no                                                             
++ no                                                             
+2 (O) cnc                                                           
++ NO                                                             
+4 NO                                                             
+4 NO                                                             
++ NO                                                             
++ no                                                             
++ no                                                             
+4 NO                                                             
++ NO                                                             
+2 no                                                             
+1 no cnc                                                           
+2 no                                                             
+4 NO                                                             
+4 NO                                                             
++ no                                                             
+2 no cnc                                                           
++ no                                                             
+4 NO                                                             
+4 no                                                             
+4 (O)                                                             
++ (O)                                                             
++ no                                                             
++ (O) cnc                                                           
+5 no                                                             
+4 (O)                                                             
++ (O) cnc                                                           
+4 no                                                             
++ no cnc                                                           
++ O                                                             
+2 NO cnc                                                           
+4 NO                                                             
++ NO                                                             
+2 no cnc                                                           
++ O                                                             
+4 O                                                             
+1 O                                                             
+2 O                                                             
++ O                                                             
+1 NO cnc                                                           
+2 O                                                             
+1 O cnc                                                           
+1 O cnc                                                           
+2 )                                                             
+1 O                                                             
++ )                                                             
++ NO                                                             
+1 NO cnc                                                           
+2 O                                                             
+/ O cnc                                                           
+2 )                                                             
+2 O                                                             
+2 NO                                                             
+2 O                                                             
+2 O                                                             
+1 O                                                             
+1 O                                                             
+1 NO cnc                                                           
+2 O                                                             
+2 O                                                             
+1 O                                                             
+1 )                                                             
+1 )                                                             
+/ O cnc                                                           
+2 O                                                             
++ O                                                             
+2 O                                                             
+2 O                                                             
+1 O cnc                                                           
+2 O                                                             
+2 NO                                                             
++ NO                                                             
++ NO                                                             
++ O                                                             
+2 NO                                                             
+2 O                                                             
++ NO                                                             
++ NO                                                             
++ NO                                                             
++ O                                                             
++ O                                                             
+2 O                                                             
+2 O                                                             
+2 O                                                             
++ O                                                             
+1 O cnc                                                           
+1 )                                                             
+1 )                                                             
+2 )                                                             
+1 )                                                             
+1 O                                                             
+1 )                                                             
+1 9                                                             
+/ )                                                             
+Inicio: 06:03:45
+Fin: 06:05:47
+0:2:2

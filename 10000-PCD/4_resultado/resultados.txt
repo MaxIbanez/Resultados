@@ -1,0 +1,18 @@
+Cl s 
+F s 
+N  
+B  
+NO
+[H+]
+C=O
+OC
+[C@H]
+B
+F
+B
+C#N
+[2H]
+C=O
+[H+]
+[C@]
+I

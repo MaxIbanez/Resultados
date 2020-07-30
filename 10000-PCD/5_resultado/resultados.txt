@@ -1,0 +1,24 @@
+  C(=O)
+  I
+  S
+C=O
+F
+F
+C
+C\C
+Cl
+C=O
+[C@@]
+F
+N
+C
+[OH-]
+CC
+Br
+Cl
+Cl
+C\C
+[C@]
+C
+F
+S

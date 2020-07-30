@@ -1,0 +1,16 @@
+C\C
+I
+N
+NO
+[2H]
+[2H]
+C=O
+Cl
+C(\C)
+C
+B
+B
+CC l3Ipno(O)C\CC=O[OH-](O)CCC\CC(=O)\C=C\(Cl)nccnc                                             
+C(\C)\S(Br)F pF(CC)+8nocN[C@@]2C(=O)\C=C\C@@Hnc cnc                                          
+[C@@](O)(O)
+B pC(=O)7@[2H]/(C)NO32c1[H+]\C=C\C@@Hcnccnc                                              

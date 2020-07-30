@@ -1,0 +1,19 @@
+C(\C)
+F
+F
+[C@H]
+CC
+C=O
+S(O)OC
+[C@]C=O 
+[2H]C#N [C@@]FnC=OlOC[C@])BrC=O[OH-]@(CC)(Cl)(Cl) cnc cnc                                          
+[H+][C@]
+NOO
+[C@][C@H]
+[2H]S
+C\CI
+O[2H]
+CCC#N
+NO(OC) no(Cl)S(F)s[nH]HNC[nH](C)[2H][C@](N)[nH][nH]   cnc                                          
+C(\C)NC [2H]ncN[H+]s[nH]C[OH-](Cl)[nH]Cl[C@](N)[nH][nH]   cnc                                          
+[C@@]S(Cl)B

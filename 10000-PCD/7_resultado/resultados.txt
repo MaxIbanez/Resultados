@@ -1,0 +1,27 @@
+[2H]
+I
+N
+S
+I
+NO
+C\C
+Cl
+C(\C)
+N
+S
+S
+F
+C
+NC
+CC
+C=O
+OC
+[OH-]
+B
+B
+C(\C)
+[H+]
+[2H]
+Cl B(Br)
+[2H]IS(C) sCC7NC[2H]c\C=C\(Cl)NO[C@]C#Br2FC@@Hnc nc                                          
+[C@@]SNCC

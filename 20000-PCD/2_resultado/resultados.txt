@@ -1,0 +1,13 @@
+F
+Cl
+[2H]
+I
+N
+S
+F
+C
+[OH-]
+OC
+C=O
+CC\I(=O)NC
+[C@@](O) s]+co[2H]c1[OH-]6)8/[2H]BrC@@H                                              

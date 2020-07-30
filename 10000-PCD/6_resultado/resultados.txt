@@ -1,0 +1,28 @@
+C(=O)
+N
+B
+C(\C)
+C(=O)
+[2H]
+F
+N
+N
+[C@]
+CC
+Br
+C=O
+C\C
+B
+I o(F)
+O - ppHC(=O))CC[2H](O)[H+][n+](Cl)@cnc(C)  C@@H                                           
+I C#N lpC#BrOC9(=O)N[C@]c1(5ccc[H+]cncC\Ccnc cnc                                           
+F C\C op(O)(Br)/ccc[C@]\C=C\1=(C)[2H] [C@@]cnc                                             
+S c1 op(Br)(O)+(C)[C@H](C)3B(C)(N)cnc)cnc cnc                                           
+N Br opOC[n+]9ccc(c1)(C)[C@H]=[nH]C=Ocnc(c1)cnc                                             
+S C\C nsC\CC#N3(C)(CC)[nH][OH-]([nH](=O)Ncnc[C@@]cnc                                             
+F (O) ns[H+][C@@]O(C)(CC)[nH]no7(Cl)(=O)N (O)cnc                                             
+Br N IS[C@]BOC(F)1OCC\CNC(N)[nH]cnc[nH]                                              
+[2H] [ N\[OH-]ICC[H+]4[2H]BrNOCl[nH]cnc[nH]                                              
+[2H] ] ]lNCI(Br)[H+]5(F)[2H](O)\C=C\[nH]cnc(Cl)                                              
+Br \ coC(\C)@[2H](F)1ClC=OC\C[nH](C) nc                                              
+Br \snn6=C(=O)C(=O)1[2H]C=OBr(Cl)Clcncnccnc                                             
